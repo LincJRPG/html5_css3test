@@ -1,6 +1,13 @@
-body {
-    background: pink ;
-margin-left:50px}
-h1{color: white;
-font-family: fantasy;} 
-header { margin-top: 400px}
+body { background-color: pink;
+    margin-left: 50px;
+   
+}
+
+h1{color: black;
+font-family: "Breathe Fire";} 
+header { margin-top: 200px}
+.imgpadrao {margin: 30px; width: 500px}
+
+header { font-family: "Breathe Fire"; font-size: larger;}
+
+h2{ font-family: "Breathe Fire"; font-size: xx-large;           }
